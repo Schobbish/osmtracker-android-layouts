@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layouts>
+	<layout name="root">
+		<row>
+			<button type="picture" label="Photo" icon="logo_camera"/>
+            <button type="tag" label="Missed a stop!" />
+		</row>
+        <row>
+            <button type="tag" label="Sign only" />
+            <button type="tag" label="Sign only; accessible" />
+        </row>
+        <row>
+            <button type="tag" label="Sign, bin, and bench" />
+            <button type="tag" label="Sign, bin, and bench; accessible" />
+        </row>
+        <row>
+            <button type="tag" label="Sign and bin only" />
+            <button type="tag" label="Sign and bin only; accessible" />
+        </row>
+        <row>
+            <button type="tag" label="Sign and bench only" />
+            <button type="tag" label="Sign and bench only; accessible" />
+        </row>
+        <row>
+            <button type="tag" label="Shelter, bin, and bench" />
+            <button type="tag" label="Shelter, bin, and bench; accessible" />
+        </row>
+        <row>
+            <button type="tag" label="Shelter with board, bin, and bench" />
+            <button type="tag" label="Shelter with board, bin, and bench; accessible" />
+        </row>
+        <row>
+			<button type="textnote" label="Custom" icon="logo_textnote"/>
+        </row>
+	</layout>
+</layouts>
